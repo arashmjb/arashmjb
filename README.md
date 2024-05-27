@@ -24,7 +24,7 @@ Currently, I'm diving deeper into Python as a data scientist and analyzer. I'm e
 
 ### Get in Touch
 
-I'm always eager to connect with fellow enthusiasts, whether it's to collaborate on projects, share insights, or simply geek out over programming and data science. Feel free to reach out to me via email at [arashmjb@yahoo.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/arash-mahjoob-6094662a1/).
+I'm always eager to connect with fellow enthusiasts, whether it's to collaborate on projects, share insights, or simply geek out over programming and data science. Feel free to reach out to me via email at [arashmjb@yahoo.com] or connect with me on [LinkedIn][(https://www.linkedin.com/in/arash-mahjoob-6094662a1/](https://www.linkedin.com/in/arash-mahjoob-6094662a1/)).
 
 Let's code, analyze, and innovate together! 🚀
 
